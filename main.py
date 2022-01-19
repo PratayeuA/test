@@ -1,5 +1,5 @@
 print("Hello GitHub")
-print('Hello world')
+print('Hello куккук')
 print('python')
 print('world')
 print('106 group')
