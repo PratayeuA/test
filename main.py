@@ -1,4 +1,5 @@
 print("Hello GitHub")
+print('hello')
 print('Hello куккук')
 print('python')
 print('world')
